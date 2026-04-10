@@ -1,0 +1,6 @@
+open xampp control panel  thn write http://localhost/phpmyadmin/ in chrome 
+
+then for code 
+
+write this in chrome thn code will run there 
+http://localhost/prac/hello.php

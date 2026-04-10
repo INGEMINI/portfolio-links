@@ -1,0 +1,48 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container{
+
+  max-width: 80%;
+  
+  padding: 34px ;
+  margin: auto;
+ 
+}
+
+.container h1,p{
+  text-align: center;
+
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+input , textarea{
+  width: 80%;
+  padding: 10px;
+  margin: 10px; 
+  font-size: 25px;
+ border: 2px solid black;
+  border-radius: 10px;
+  outline: none;
+
+}
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg{
+  
+  padding: 34px ;
+  margin: auto;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+opacity: 0.5;
+}
